@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Forest Focus",
+    "tag": "Focus",
+    "duration": "3",
+    "description": "Immerse in gentle forest sounds and binaural tones to sharpen your focus.",
+    "imagePath": "assets/images/forest.jpg",
+    "audioPath": "assets/audio/nature.mp3",
+    "sensoryRecipe": ["Breeze", "Warm Light", "Binaural"]
+  },
+  {
+    "id": "2",
+    "title": "Ocean Drift",
+    "tag": "Calm",
+    "duration": "4",
+    "description": "Let ocean waves dissolve tension and bring you to a place of deep calm.",
+    "imagePath": "assets/images/ocean.jpg",
+    "audioPath": "assets/audio/nature.mp3",
+    "sensoryRecipe": ["Soft Rain", "Mist", "Binaural"]
+  },
+  {
+    "id": "3",
+    "title": "Night Unwind",
+    "tag": "Sleep",
+    "duration": "5",
+    "description": "Drift into sleep with soft night sounds and a gentle pulse.",
+    "imagePath": "assets/images/night.jpg",
+    "audioPath": "assets/audio/nature.mp3",
+    "sensoryRecipe": ["Mist", "Warm Light"]
+  },
+  {
+    "id": "4",
+    "title": "Morning Reset",
+    "tag": "Reset",
+    "duration": "2",
+    "description": "A crisp morning soundscape to clear your mind and start fresh.",
+    "imagePath": "assets/images/morning.jpg",
+    "audioPath": "assets/audio/nature.mp3",
+    "sensoryRecipe": ["Breeze", "Warm Light"]
+  },
+  {
+    "id": "5",
+    "title": "Deep Work",
+    "tag": "Focus",
+    "duration": "6",
+    "description": "Low-frequency tones designed to support long deep work sessions.",
+    "imagePath": "assets/images/deepwork.jpg",
+    "audioPath": "assets/audio/nature.mp3",
+    "sensoryRecipe": ["Binaural", "Mist"]
+  },
+  {
+    "id": "6",
+    "title": "Rain Calm",
+    "tag": "Calm",
+    "duration": "4",
+    "description": "Gentle rain sounds layered with soft ambient tones for total relaxation.",
+    "imagePath": "assets/images/rain.jpg",
+    "audioPath": "assets/audio/nature.mp3",
+    "sensoryRecipe": ["Soft Rain", "Mist", "Breeze"]
+  }
+]
